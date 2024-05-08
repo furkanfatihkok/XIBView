@@ -8,6 +8,7 @@
 import UIKit
 
 extension UIView: CustomNibView {
+    
     public func configureNibView() {
         guard let view = loadViewFromNib() else { return }
         view.frame = bounds
