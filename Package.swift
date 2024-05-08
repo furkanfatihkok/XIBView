@@ -13,11 +13,11 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "XIBView",
-            sources: ["Sources"]),
+            name: "XIBView"),
         .testTarget(
             name: "XIBViewTests",
             dependencies: ["XIBView"]),
     ]
 )
+
 
