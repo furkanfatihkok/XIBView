@@ -18,3 +18,6 @@
 
 We add it into the created custom View by saying import XIBView. 
 Immediately afterwards, we call the override and required methods and add the configureNibView() function and our project becomes operational.
+
+![Örnek Görsel](images/examp<img width="347" alt="Screenshot 2024-05-10 at 15 15 59" src="https://github.com/furkanfatihkok/XIBView/assets/113316242/bf2550a4-dcd3-4b2e-ae0a-75e49627c9d8">
+le.png)
