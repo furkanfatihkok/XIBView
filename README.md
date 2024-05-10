@@ -8,7 +8,7 @@
 1. Projeyi Swift paketi olarak ekleyin. `Package.swift` dosyanıza aşağıdaki satırı ekleyin:
 
     ```swift
-    .package(url: "[link_to_your_repository](https://github.com/furkanfatihkok/XIBView)", from: "1.0.0")
+    .package(url: "(https://github.com/furkanfatihkok/XIBView)", from: "1.0.0")
     ```
 
 2. Projeyi hedef paketinize ekleyin ve kullanmaya başlayın.
